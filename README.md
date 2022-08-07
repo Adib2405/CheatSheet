@@ -8,7 +8,8 @@ For Matplotlib / Seaborn
 1. [Vizualization.pdf](https://github.com/Adib2405/CheatSheet/files/9276861/Vizualization.pdf)
 
 All in One
-1. [Uploading Numpy-Pandas-Seaborn.pdf…]()
+1. [Numpy-Pandas-Seaborn.pdf](https://github.com/Adib2405/CheatSheet/files/9276880/Numpy-Pandas-Seaborn.pdf)
+
 
 
 
