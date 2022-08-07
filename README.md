@@ -9,6 +9,7 @@ For Matplotlib / Seaborn
 
 All in One
 1. [Numpy-Pandas-Seaborn.pdf](https://github.com/Adib2405/CheatSheet/files/9276880/Numpy-Pandas-Seaborn.pdf)
+2. https://drive.google.com/file/d/1hkDi0RjfIr2wj-ZmFnLYkoI9LFsnhHSR/view?usp=sharing
 
 
 
