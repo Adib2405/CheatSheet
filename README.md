@@ -12,6 +12,7 @@ For Matplotlib / Seaborn
 For SQL
 1. https://drive.google.com/file/d/1X3KywEjSTrNshTBrXOs0T5RRI3v0Xyk8/view?usp=sharing
 2. https://drive.google.com/file/d/1v_h-hheg9cSKaOivMr5dk568ilS4bxB0/view?usp=sharing
+3. https://drive.google.com/file/d/1MGI_iUWXq1UH-1-w8Yzr4xTal38Zp262/view?usp=sharing
 
 All in One
 1. https://drive.google.com/file/d/1hkDi0RjfIr2wj-ZmFnLYkoI9LFsnhHSR/view?usp=sharing
